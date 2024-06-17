@@ -1,5 +1,5 @@
 function Home(){
-  return <h1>Teste de commit corrigido</h1>
+  return <h1>Obrigado por ser nosso pincel!</h1>
 }
 
 export default Home;
